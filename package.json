@@ -1,0 +1,20 @@
+{
+  "name": "m7re4-atm",
+  "version": "2.2.0",
+  "description": "this a atm machine which is made with inquirer and with the type script is he best atm machine ever",
+  "main": "index.js",
+  "type": "module",
+  "bin": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.17"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/jquery": "^3.5.29"
+  }
+}
